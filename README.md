@@ -8,20 +8,25 @@
 -->
 
 ### Michael Merimee
-**DevOps engineer building toward forward-deployed / agentic systems work**
+**DevOps engineer — platform infrastructure, CI/CD, and agentic systems**
 
 Currently at Westfield Insurance.  
-I sit with stakeholders, turn messy problems into working systems, and spend serious time on AI agent patterns — orchestration, personas, skills, memory, and the tooling that makes them reliable.
+I build the delivery platform other teams depend on — private cloud build infrastructure, reusable pipelines, and security tooling — and I’m deliberate about making AI assistance safe to point at real systems.
 
-Background in teaching, digital marketing, and client delivery before engineering — so I’m comfortable in the room where the problem lives, not only in the repo.
+---
+
+### Selected results
+- Designed and operate private Azure elastic build pools (Terraform, OIDC, private networking); **sub-second agent acquisition at p95** across 371 measured jobs — vs. a 65-minute worst case on the prior design
+- Primary reviewer on shared CI/CD templates and docs: **~215 PRs reviewed for 21 engineers**, with blast-radius thinking for every consuming team
+- Drove enterprise static-analysis adoption across ~a dozen repos; built custom MCP tooling for legacy modernization discovery existing tools couldn’t reach
 
 ---
 
 ### Focus
-- Designing and operating **agentic workflows** (orchestrators, specialist personas, skills, memory)
-- Shipping production systems with DevOps rigor (CI, infra, reliability)
-- Turning ambiguous business problems into something teams can actually run
-- Testing new agent architectures, eval approaches, and developer tooling for agents
+- Private cloud build platforms and CI/CD template architecture
+- DevSecOps: quality gates, secrets hygiene, trust on ephemeral agents
+- Agentic workflows with dry-run-then-apply, approval gates, and auditable logs
+- Turning incomplete maps — uninventoried estates, unverified scanners, drifted docs — into evidenced, adoptable systems
 
 ---
 
@@ -29,8 +34,7 @@ Background in teaching, digital marketing, and client delivery before engineerin
 
 **[Elyra](https://github.com/merimeesoftware/elyra)** — AI-powered website migration engine  
 Conductor (meta-agent) + specialist Personas + reusable Skills + memory layer.  
-Built with LangGraph-style state machines, MCP tool clients, adaptive onboarding, and GitHub Actions CI.  
-Phase 0 MVP complete; designed for real migration workflows.
+Built with LangGraph-style state machines, MCP tool clients, adaptive onboarding, and GitHub Actions CI.
 
 Other public work:
 - [Senior Schools Network](https://github.com/merimeesoftware/Senior-Schools-Network) — production TypeScript site
@@ -39,13 +43,12 @@ Other public work:
 ---
 
 ### How I Work
-Embedded with the people who own the problem.  
-Discovery → prototype → production → feed lessons back into better patterns and tooling.
+Evidence over assertion. Live systems outrank documentation. AI accelerates research and drafting; validation against primary sources and ownership of the outcome stay with the engineer.
 
 ---
 
 ### Stack
-Python · TypeScript · LangGraph / agent orchestration · MCP · Cloudflare (Workers, D1, R2, Pages) · GitHub Actions · Astro · Java / Spring
+Azure · Terraform · Azure DevOps · OpenShift/Kubernetes · Python · TypeScript · LangGraph / MCP · Java / Spring · GitHub Actions · Cloudflare
 
 ---
 
