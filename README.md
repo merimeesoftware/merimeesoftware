@@ -1,16 +1,18 @@
 ### Michael Merimee
-**Forward-deployed engineer focused on agentic systems**
+**DevOps engineer building toward forward-deployed / agentic systems work**
 
 Currently at Westfield Insurance.  
-I sit with people, understand real problems, and ship working AI agent systems — then improve the patterns and tooling that make those systems reliable.
+I sit with stakeholders, turn messy problems into working systems, and spend serious time on AI agent patterns — orchestration, personas, skills, memory, and the tooling that makes them reliable.
+
+Background in teaching, digital marketing, and client delivery before engineering — so I’m comfortable in the room where the problem lives, not only in the repo.
 
 ---
 
 ### Focus
 - Designing and operating **agentic workflows** (orchestrators, specialist personas, skills, memory)
-- Turning ambiguous business problems into production-ready agent systems
-- Researching and testing the latest agent patterns, evaluation approaches, and developer tooling for agents
-- Bridging the gap between what AI can do and what an organization actually needs
+- Shipping production systems with DevOps rigor (CI, infra, reliability)
+- Turning ambiguous business problems into something teams can actually run
+- Testing new agent architectures, eval approaches, and developer tooling for agents
 
 ---
 
@@ -28,14 +30,13 @@ Other public work:
 ---
 
 ### How I Work
-I prefer being embedded with the people who own the problem.  
-Discovery → prototype → production system → feedback into better patterns and tooling.  
-I read papers, test new agent architectures, and care as much about the *developer experience of building agents* as the agents themselves.
+Embedded with the people who own the problem.  
+Discovery → prototype → production → feed lessons back into better patterns and tooling.
 
 ---
 
 ### Stack
-Python · TypeScript · LangGraph / agent orchestration · MCP · Cloudflare (Workers, D1, R2, Pages) · GitHub Actions · Astro
+Python · TypeScript · LangGraph / agent orchestration · MCP · Cloudflare (Workers, D1, R2, Pages) · GitHub Actions · Astro · Java / Spring
 
 ---
 
