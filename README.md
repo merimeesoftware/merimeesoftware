@@ -1,3 +1,12 @@
+<!--
+  Personal GitHub user profile README (not an organization).
+  For user accounts, the special repo must be named <username>/<username>
+  and this file must live at the repository ROOT as README.md.
+
+  Do NOT use .github/profile/README.md or profile/README.md —
+  those paths are for organization profile READMEs only.
+-->
+
 ### Michael Merimee
 **DevOps engineer building toward forward-deployed / agentic systems work**
 
@@ -42,4 +51,4 @@ Python · TypeScript · LangGraph / agent orchestration · MCP · Cloudflare (Wo
 
 ### Contact
 X: [@MichaelMerimee](https://x.com/MichaelMerimee)  
-GitHub: [merimeesoftware](https://github.com/merimeesoftware)
+GitHub: [merimeesoftware](https://github.com/merimeesoftware) — personal profile
