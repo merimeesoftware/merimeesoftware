@@ -48,7 +48,7 @@ Other public work:
 ### Client delivery (pre-engineering & freelance)
 Built and shipped client websites when the right tool was Wix/Squarespace — not because native code was impossible, but because non-technical owners needed something they could manage. That era taught adaptability, stakeholder delivery, and shipping the right result on time.
 
-Selected work ([full portfolio site](https://merimeesolutions.wixstudio.com/my-site-2)):
+Selected work:
 - [Holy Rollers](https://www.holyrollers.us/) — website design, messaging
 - [Chesterton Academy of Akron](https://akronchestertonacademy.org/) — web redesign, building interest
 - [Parker Eidle](https://www.parkereidle.com/) — website design
