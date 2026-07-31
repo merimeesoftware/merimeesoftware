@@ -59,11 +59,10 @@ Other public work:
 Built and shipped client websites when the right tool was Wix/Squarespace — not because native code was impossible, but because non-technical owners needed something they could manage. That era taught adaptability, stakeholder delivery, and shipping the right result on time.
 
 Selected work:
+- [Saint Joseph the Worker Academy](https://www.saintjosephtheworkeracademy.org/) — designed and built from the ground up
 - [Holy Rollers](https://www.holyrollers.us/) — website design, messaging
-- [Chesterton Academy of Akron](https://akronchestertonacademy.org/) — web redesign, building interest
 - [Parker Eidle](https://www.parkereidle.com/) — website design
 - [Alena Carter](http://www.alenacarter.art/) — website design, messaging
-- [Bonfire Media](https://www.bonfiremedia.art/) — website design, messaging, building interest
 
 Today the same client problem is shifting: AI-assisted native sites are often easier to manage and edit than page builders. That’s the direction I’m building toward for new client work (and what Elyra is aimed at).
 
