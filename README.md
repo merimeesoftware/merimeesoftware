@@ -19,17 +19,27 @@ Background in teaching, digital marketing, and client delivery before engineerin
 ---
 
 ### Selected results
-- Designed and operate private Azure elastic build pools (Terraform, OIDC, private networking); **sub-second agent acquisition at p95** across 371 measured jobs — vs. a 65-minute worst case on the prior design
+- Designed and operate private Azure elastic build pools (Terraform, OIDC, private networking) — cut agent wait from up to **65 minutes** worst case to **under a second** for teams that had contention
 - Primary reviewer on shared CI/CD templates and docs: **~215 PRs reviewed for 21 engineers**, with blast-radius thinking for every consuming team
 - Drove enterprise static-analysis adoption across ~a dozen repos; built custom MCP tooling for legacy modernization discovery existing tools couldn’t reach
 
 ---
 
-### Focus
-- Private cloud build platforms and CI/CD template architecture
+### Skills
+**AI & agents**
+- Designing agentic workflows: conductors/orchestrators, specialist personas, skills, memory
+- MCP tool clients/servers; dry-run-then-apply, approval gates, auditable runs
+- Getting models to do useful work efficiently — structure, tool use, verification loops
+- Making AI safe to point at real systems (enterprise constraints, secrets, blast radius)
+
+**Platform & delivery**
+- Shared CI/CD and private cloud build platforms other teams depend on
 - DevSecOps: quality gates, secrets hygiene, trust on ephemeral agents
-- Agentic workflows with dry-run-then-apply, approval gates, and auditable logs
-- Turning incomplete maps — uninventoried estates, unverified scanners, drifted docs — into evidenced, adoptable systems
+- Turning incomplete maps into evidenced, adoptable systems
+- Stakeholder-facing delivery: discovery → prototype → production
+
+**Communication**
+- Teaching / explaining hard ideas; writing runbooks and integration guides teams actually use
 
 ---
 
@@ -67,7 +77,7 @@ AI accelerates research and drafting; validation against primary sources and own
 ---
 
 ### Stack
-Azure · Terraform · Azure DevOps · OpenShift/Kubernetes · Python · TypeScript · LangGraph / MCP · Java / Spring · GitHub Actions · Cloudflare
+Azure · Terraform · Azure DevOps · OpenShift/Kubernetes · Python · TypeScript · LangGraph · MCP · Java / Spring · GitHub Actions · Cloudflare
 
 ---
 
