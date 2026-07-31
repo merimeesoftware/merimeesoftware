@@ -8,10 +8,13 @@
 -->
 
 ### Michael Merimee
-**DevOps engineer — platform infrastructure, CI/CD, and agentic systems**
+**DevOps engineer — platform infrastructure, CI/CD, and agentic systems**  
+Building toward forward-deployed / agentic delivery work.
 
 Currently at Westfield Insurance.  
 I build the delivery platform other teams depend on — private cloud build infrastructure, reusable pipelines, and security tooling — and I’m deliberate about making AI assistance safe to point at real systems.
+
+Background in teaching, digital marketing, and client delivery before engineering — so I’m comfortable in the room where the problem lives, not only in the repo.
 
 ---
 
@@ -42,8 +45,24 @@ Other public work:
 
 ---
 
+### Client delivery (pre-engineering & freelance)
+Built and shipped client websites when the right tool was Wix/Squarespace — not because native code was impossible, but because non-technical owners needed something they could manage. That era taught adaptability, stakeholder delivery, and shipping the right result on time.
+
+Selected work ([full portfolio site](https://merimeesolutions.wixstudio.com/my-site-2)):
+- [Holy Rollers](https://www.holyrollers.us/) — website design, messaging
+- [Chesterton Academy of Akron](https://akronchestertonacademy.org/) — web redesign, building interest
+- [Parker Eidle](https://www.parkereidle.com/) — website design
+- [Alena Carter](http://www.alenacarter.art/) — website design, messaging
+- [Bonfire Media](https://www.bonfiremedia.art/) — website design, messaging, building interest
+
+Today the same client problem is shifting: AI-assisted native sites are often easier to manage and edit than page builders. That’s the direction I’m building toward for new client work (and what Elyra is aimed at).
+
+---
+
 ### How I Work
-Evidence over assertion. Live systems outrank documentation. AI accelerates research and drafting; validation against primary sources and ownership of the outcome stay with the engineer.
+Evidence over assertion. Live systems outrank documentation.  
+Embedded with the people who own the problem — discovery → prototype → production → better patterns.  
+AI accelerates research and drafting; validation against primary sources and ownership of the outcome stay with the engineer.
 
 ---
 
@@ -53,5 +72,5 @@ Azure · Terraform · Azure DevOps · OpenShift/Kubernetes · Python · TypeScri
 ---
 
 ### Contact
-X: [@MichaelMerimee](https://x.com/MichaelMerimee)  
+LinkedIn: [michael-merimee](https://www.linkedin.com/in/michael-merimee/)  
 GitHub: [merimeesoftware](https://github.com/merimeesoftware) — personal profile
