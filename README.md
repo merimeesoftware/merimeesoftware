@@ -5,6 +5,8 @@
 
   Do NOT use .github/profile/README.md or profile/README.md —
   those paths are for organization profile READMEs only.
+
+  Voice, sources, and edit rules: see .profile/ (not rendered on the profile).
 -->
 
 ### Michael Merimee
@@ -27,56 +29,56 @@ Background in teaching, digital marketing, and client delivery before engineerin
 
 ### Skills
 **AI & agents**
-- Designing agentic workflows: conductors/orchestrators, specialist personas, skills, memory
-- MCP tool clients/servers; dry-run-then-apply, approval gates, auditable runs
-- Getting models to do useful work efficiently — structure, tool use, verification loops
-- Making AI safe to point at real systems (enterprise constraints, secrets, blast radius)
+- Multi-agent systems: conductors, specialist personas, reusable skills, memory
+- MCP — build and wire tool clients/servers agents can actually use
+- Control loops: structure → tool use → verify → dry-run → approve → apply
+- Run AI against real systems without skipping secrets, trust, or blast radius
 
 **Platform & delivery**
-- Shared CI/CD and private cloud build platforms other teams depend on
-- DevSecOps: quality gates, secrets hygiene, trust on ephemeral agents
-- Turning incomplete maps into evidenced, adoptable systems
-- Stakeholder-facing delivery: discovery → prototype → production
+- Private cloud build platforms and shared CI/CD other teams inherit
+- DevSecOps on ephemeral agents: quality gates, secrets, PKI/trust
+- Incomplete maps → evidenced systems teams can adopt
+- Embedded delivery: discovery → prototype → production → better patterns
 
-**Communication**
-- Teaching / explaining hard ideas; writing runbooks and integration guides teams actually use
+**People & communication**
+- Teach hard ideas clearly (classroom + developer docs)
+- Write runbooks and integration guides operators will follow
+- Review shared platforms for consumer blast radius, not just local correctness
 
 ---
 
-### Featured Work
+### Featured work
 
 **[Elyra](https://github.com/merimeesoftware/elyra)** — AI-powered website migration engine  
-Conductor (meta-agent) + specialist Personas + reusable Skills + memory layer.  
-Built with LangGraph-style state machines, MCP tool clients, adaptive onboarding, and GitHub Actions CI.
+Conductor (meta-agent) + specialist Personas + reusable Skills + memory.  
+LangGraph-style state machines, MCP tool clients, adaptive onboarding, GitHub Actions CI.
 
-Other public work:
+Also:
 - [Senior Schools Network](https://github.com/merimeesoftware/Senior-Schools-Network) — production TypeScript site
 - [CFB Ranking Algorithm](https://github.com/merimeesoftware/cfb-ranking-algorithm) — independent ranking system
 
 ---
 
-### Client delivery (pre-engineering & freelance)
-Built and shipped client websites when the right tool was Wix/Squarespace — not because native code was impossible, but because non-technical owners needed something they could manage. That era taught adaptability, stakeholder delivery, and shipping the right result on time.
+### Client delivery
+Built sites when Wix/Squarespace was the right tool — non-technical owners needed something they could manage. That work trained adaptability and shipping for real stakeholders.
 
-Selected work:
 - [Saint Joseph the Worker Academy](https://www.saintjosephtheworkeracademy.org/) — designed and built from the ground up
 - [Holy Rollers](https://www.holyrollers.us/) — website design, messaging
 - [Parker Eidle](https://www.parkereidle.com/) — website design
 - [Alena Carter](http://www.alenacarter.art/) — website design, messaging
 
-Today the same client problem is shifting: AI-assisted native sites are often easier to manage and edit than page builders. That’s the direction I’m building toward for new client work (and what Elyra is aimed at).
+Now the same problem is shifting: AI-assisted native sites are often easier to manage than page builders — the direction Elyra and new client work aim at.
 
 ---
 
-### How I Work
+### How I work
 Evidence over assertion. Live systems outrank documentation.  
-Embedded with the people who own the problem — discovery → prototype → production → better patterns.  
-AI accelerates research and drafting; validation against primary sources and ownership of the outcome stay with the engineer.
+AI accelerates research and drafting; validation and ownership stay with the engineer.
 
 ---
 
 ### Stack
-Azure · Terraform · Azure DevOps · OpenShift/Kubernetes · Python · TypeScript · LangGraph · MCP · Java / Spring · GitHub Actions · Cloudflare
+Azure · Terraform · Azure DevOps · OpenShift / Kubernetes · Python · TypeScript · LangGraph · MCP · Java / Spring · GitHub Actions · Cloudflare
 
 ---
 
