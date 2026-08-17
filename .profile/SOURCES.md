@@ -1,16 +1,20 @@
 # Professional data sources (ingest order)
 
-Canonical inputs for regenerating GitHub README and LinkedIn drafts. Prefer freshest + most defensible.
+Canonical inputs for regenerating GitHub README and LinkedIn drafts.  
+**Prefer vault Career canon over Downloads.**
 
-| Priority | Source | Path / URL | Use for |
+| Priority | Source | Path | Use for |
 |---|---|---|---|
-| 1 | Portfolio brag sheet | `C:\Users\micha\Downloads\PORTFOLIO-PUBLIC.md` (or copy into `.profile/data/` when updated) | Westfield results, competencies, LinkedIn About |
-| 2 | LinkedIn export PDF | `C:\Users\micha\Downloads\Profile.pdf` | Current public LinkedIn state / gaps |
-| 3 | Resume | `C:\Users\micha\Downloads\Michael_Merimee_Resume.docx` | Pre-Westfield career, education |
-| 4 | FDE resume draft | `C:\Users\micha\Downloads\Michael_Merimee_Resume_FDE.md` | Targeted bullets |
-| 5 | LinkedIn update pack | `C:\Users\micha\Downloads\Michael_Merimee_LinkedIn_Westfield_Update.md` | Paste-ready LinkedIn |
-| 6 | Live GitHub profile README | `README.md` (this repo) | Current public GitHub |
-| 7 | Client sites (manual allowlist) | Listed in README “Client delivery” | Only links that still represent the work |
+| 1 | Career canon hub | `michaels-mind` → `Life/Career/Canon.md` | Entry point |
+| 2 | Public-safe brag | `Life/Career/Public-safe brag.md` | Westfield results, competencies |
+| 3 | Publish voice | `Life/Career/Publish voice.md` | Tone / FDE directional pull |
+| 4 | Client allowlist | `Life/Career/Client allowlist.md` | Public client links |
+| 5 | Career spine (wiki) | `wiki/entities/michael-merimee-career.md` | Timeline / teaching / marketing |
+| 6 | Work dumps (optional) | `Inbox/from-work/*.md` | New wins not yet folded into brag |
+| 7 | Live GitHub README | `README.md` (this repo) | Current public GitHub |
+
+Legacy Downloads paths (triage into vault, then stop using):
+`PORTFOLIO-PUBLIC.md`, `Profile.pdf`, resume DOCX, LinkedIn update MD.
 
 ## Facts locked
 - Westfield start: **May 2024**
@@ -18,7 +22,8 @@ Canonical inputs for regenerating GitHub README and LinkedIn drafts. Prefer fres
 - Contact: LinkedIn + GitHub (no X unless re-added)
 
 ## Ingest rules
-1. Never invent metrics; only use claims present in PORTFOLIO-PUBLIC or verified by user.
+1. Never invent metrics; only use claims in Public-safe brag or verified by user.
 2. Soften lab metrics for GitHub; keep full metrics for LinkedIn/resume.
-3. Drop client links that are dead or no longer look like the shipped work.
-4. After ingest, open a PR — do not push straight to `master` without review.
+3. Client links only from Client allowlist.
+4. Open a PR — do not push straight to `master` without review.
+5. Librarian (`second-brain-ingest`) updates vault; this skill **publishes** — do not conflate.
