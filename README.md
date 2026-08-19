@@ -56,6 +56,7 @@ LangGraph-style state machines, MCP tool clients, adaptive onboarding, GitHub Ac
 Also:
 - [Senior Schools Network](https://github.com/merimeesoftware/Senior-Schools-Network) — production TypeScript site
 - [CFB Ranking Algorithm](https://github.com/merimeesoftware/cfb-ranking-algorithm) — independent ranking system
+- [Merimee](https://github.com/merimeesoftware/merimee-solutions) — native rebuild of the old Wix portfolio, with a live-link audit of client work
 
 ---
 
@@ -65,9 +66,9 @@ Built sites when Wix/Squarespace was the right tool — non-technical owners nee
 - [Saint Joseph the Worker Academy](https://www.saintjosephtheworkeracademy.org/) — designed and built from the ground up
 - [Holy Rollers](https://www.holyrollers.us/) — website design, messaging
 - [Parker Eidle](https://www.parkereidle.com/) — website design
-- [Alena Carter](http://www.alenacarter.art/) — website design, messaging
+- [Alena Carter](http://www.alenacarter.art/) — website design, messaging (host was down as of Aug 2026)
 
-Now the same problem is shifting: AI-assisted native sites are often easier to manage than page builders — the direction Elyra and new client work aim at.
+Now the same problem is shifting: AI-assisted native sites are often easier to manage than page builders — the direction Elyra and new client work aim at. The Wix studio site is being replaced by the native rebuild in [merimee-solutions](https://github.com/merimeesoftware/merimee-solutions).
 
 ---
 
@@ -84,4 +85,5 @@ Azure · Terraform · Azure DevOps · OpenShift / Kubernetes · Python · TypeSc
 
 ### Contact
 LinkedIn: [michael-merimee](https://www.linkedin.com/in/michael-merimee/)  
-GitHub: [merimeesoftware](https://github.com/merimeesoftware) — personal profile
+GitHub: [merimeesoftware](https://github.com/merimeesoftware) — personal profile  
+Portfolio: [merimee-solutions](https://github.com/merimeesoftware/merimee-solutions)
