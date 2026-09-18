@@ -10,11 +10,13 @@
 -->
 
 ### Michael Merimee
-**DevOps engineer — platform infrastructure, CI/CD, and agentic systems**  
-Building toward forward-deployed / agentic delivery work.
+**DevOps engineer — platform infrastructure, CI/CD, and agent runtimes**  
+Open to AI platform / enablement / senior platform roles (home-first).
 
 Currently at Westfield Insurance.  
 I build the delivery platform other teams depend on — private cloud build infrastructure, reusable pipelines, and security tooling — and I’m deliberate about making AI assistance safe to point at real systems.
+
+Next: last-mile agents on regulated delivery platforms — identity, gates, audit, blast radius — so other teams can use AI without creating an incident.
 
 Background in teaching, digital marketing, and client delivery before engineering — so I’m comfortable in the room where the problem lives, not only in the repo.
 
@@ -29,6 +31,7 @@ Background in teaching, digital marketing, and client delivery before engineerin
 
 ### Skills
 **AI & agents**
+- Agent runtimes with guardrails other teams can inherit
 - Multi-agent systems: conductors, specialist personas, reusable skills, memory
 - MCP — build and wire tool clients/servers agents can actually use
 - Control loops: structure → tool use → verify → dry-run → approve → apply
@@ -38,7 +41,7 @@ Background in teaching, digital marketing, and client delivery before engineerin
 - Private cloud build platforms and shared CI/CD other teams inherit
 - DevSecOps on ephemeral agents: quality gates, secrets, PKI/trust
 - Incomplete maps → evidenced systems teams can adopt
-- Embedded delivery: discovery → prototype → production → better patterns
+- Enablement: discovery → prototype → production → better patterns other teams inherit
 
 **People & communication**
 - Teach hard ideas clearly (classroom + developer docs)
@@ -49,13 +52,15 @@ Background in teaching, digital marketing, and client delivery before engineerin
 
 ### Featured work
 
-**[Elyra](https://github.com/merimeesoftware/elyra)** — AI-powered website migration engine  
+**[CFB Ranking Algorithm](https://github.com/merimeesoftware/cfb-ranking-algorithm)** — live ranking system (True Rankings)  
+Weekly drop on production infrastructure.
+
+**[Elyra](https://github.com/merimeesoftware/elyra)** — architecture and agent patterns  
 Conductor (meta-agent) + specialist Personas + reusable Skills + memory.  
 LangGraph-style state machines, MCP tool clients, adaptive onboarding, GitHub Actions CI.
 
 Also:
 - [Senior Schools Network](https://github.com/merimeesoftware/Senior-Schools-Network) — production TypeScript site
-- [CFB Ranking Algorithm](https://github.com/merimeesoftware/cfb-ranking-algorithm) — independent ranking system
 - [Merimee](https://github.com/merimeesoftware/merimee-solutions) — native rebuild of the old Wix portfolio, with a live-link audit of client work
 
 ---
@@ -68,7 +73,7 @@ Built sites when Wix/Squarespace was the right tool — non-technical owners nee
 - [Parker Eidle](https://www.parkereidle.com/) — website design
 - [Alena Carter](http://www.alenacarter.art/) — website design, messaging (host was down as of Aug 2026)
 
-Now the same problem is shifting: AI-assisted native sites are often easier to manage than page builders — the direction Elyra and new client work aim at. The Wix studio site is being replaced by the native rebuild in [merimee-solutions](https://github.com/merimeesoftware/merimee-solutions).
+Now the same problem is shifting: AI-assisted native sites are often easier to manage than page builders — the direction new client work aims at. The Wix studio site is being replaced by the native rebuild in [merimee-solutions](https://github.com/merimeesoftware/merimee-solutions).
 
 ---
 

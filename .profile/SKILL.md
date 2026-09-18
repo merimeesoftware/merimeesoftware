@@ -17,7 +17,7 @@ description: >-
 ## Workflow
 1. **Ingest** — Read Career canon (SOURCES.md). Diff vs current README.
 2. **Filter** — Soften lab metrics; allowlist clients only; no internal names.
-3. **Apply voice** — DevOps now → FDE/agentic direction; evidence; short.
+3. **Apply voice** — DevOps now → AI platform / enablement / senior platform (home-first); evidence; short. Do not headline FDE.
 4. **Edit** — GitHub `README.md`; optional LinkedIn draft (not full vault dump).
 5. **Verify** — Client URLs; Westfield May 2024; no X unless requested.
 6. **Ship** — Branch/PR; human reviews before merge.

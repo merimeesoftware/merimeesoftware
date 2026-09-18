@@ -7,7 +7,7 @@ Canonical inputs for regenerating GitHub README and LinkedIn drafts.
 |---|---|---|---|
 | 1 | Career canon hub | `michaels-mind` → `Life/Career/Canon.md` | Entry point |
 | 2 | Public-safe brag | `Life/Career/Public-safe brag.md` | Westfield results, competencies |
-| 3 | Publish voice | `Life/Career/Publish voice.md` | Tone / FDE directional pull |
+| 3 | Publish voice | `Life/Career/Publish voice.md` | Tone / platform-enablement directional pull |
 | 4 | Client allowlist | `Life/Career/Client allowlist.md` | Public client links |
 | 5 | Career spine (wiki) | `wiki/entities/michael-merimee-career.md` | Timeline / teaching / marketing |
 | 6 | Work dumps (optional) | `Inbox/from-work/*.md` | New wins not yet folded into brag |

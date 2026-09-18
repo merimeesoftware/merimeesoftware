@@ -27,10 +27,10 @@ What we want from other developers’ GitHub profiles — not to copy layout, bu
 **Steal:** GitHub is the hub; LinkedIn/blog hold the long story.
 
 ## Weak patterns (avoid)
-- Badge / icon soup (Anurag-style stats & tech icons — fine for some, wrong for FDE targeting)
+- Badge / icon soup (Anurag-style stats & tech icons — fine for some, wrong for platform / enablement targeting)
 - “Hi I’m a passionate developer” + 40 tool logos
 - Org-style `.github/profile/` layout on a personal account
 
 ## Fit for merimeesoftware
-Closest model: **jxnl clarity + simonw proof + our measured Westfield results + Elyra as signature artifact.**  
-Skills section is intentional for FDE positioning (agents/MCP) — keep it capability-shaped, not logo-shaped.
+Closest model: **jxnl clarity + simonw proof + measured Westfield results + CFB as live production proof + Elyra as agent-pattern library.**  
+Skills section is intentional for AI platform / enablement positioning (agent runtimes, MCP, guardrails) — keep it capability-shaped, not logo-shaped.

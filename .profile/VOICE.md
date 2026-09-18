@@ -7,28 +7,32 @@ Keep this file as a short mirror for agents that only have the profile repo chec
 
 ## Directional pull
 - **Current title (honest):** DevOps engineer at Westfield (May 2024–Present)
-- **Direction (aspirational, not claimed title):** forward-deployed / agentic delivery
-- **Proof hierarchy:** measured Westfield results → Elyra → client allowlist → earlier career
+- **Direction (aspirational, not claimed title):** AI platform / enablement / senior platform (home-first). FDE only if remote-US and travel under ~20% — never the headline.
+- **Proof hierarchy:** measured Westfield results → CFB/True Rankings live drop → Elyra as agent patterns → client allowlist → earlier career
 - **Surfaces:** GitHub (proof) + LinkedIn (full story). No separate portfolio site.
 
 ## Tone
 - Short, high-signal, first person
-- Evidence over hype; never invent titles (not “Forward Deployed Engineer” yet)
+- Evidence over hype; never invent titles (not “AI Platform Engineer” or “Forward Deployed Engineer” yet)
 - Prefer outcomes people can picture over lab-report metrics
 - No badge soup, emoji walls, or “Hi I’m …” fluff
+- No “aspiring.” No “passionate about AI.” No salary, family finances, or internal politics.
 
 ## Prefer
-- “Building toward…” / “deliberate about…”
-- “Other teams depend on” / “blast radius”
+- “Open to AI platform / enablement / senior platform roles (home-first)”
+- “Last-mile agents on regulated delivery platforms”
+- “Other teams depend on” / “blast radius” / “guardrails”
 - “Safe to point at real systems”
 - “Discovery → prototype → production”
 - “AI accelerates; engineer owns”
 
 ## Avoid
-- Claiming FDE as current title
+- Headlining Solutions Engineer, sales-quota SE, or high-travel FDE
+- Crowding into “security engineer” as the identity (gates/identity/blast radius stay in the platform story)
 - Internal system names, colleague names, proprietary topology
 - Dead client links
 - X/Twitter unless explicitly re-enabled
+- Claiming Elyra as a production website-migration product
 
 ## Skills vs Stack
 - **Skills** = capabilities (AI/agents first)
