@@ -8,7 +8,7 @@ Keep this file as a short mirror for agents that only have the profile repo chec
 ## Directional pull
 - **Current title (honest):** DevOps engineer at Westfield (May 2024–Present)
 - **Direction (aspirational, not claimed title):** AI platform / enablement / senior platform (home-first). FDE only if remote-US and travel under ~20% — never the headline.
-- **Proof hierarchy:** measured Westfield results → CFB/True Rankings live drop → Elyra as agent patterns → client allowlist → earlier career
+- **Proof hierarchy:** measured Westfield results → CFB/True Rankings live drop → sleeper-mcp remote MCP → Elyra as agent patterns → reusable CI templates → client allowlist → earlier career
 - **Surfaces:** GitHub (proof) + LinkedIn (full story). No separate portfolio site.
 
 ## Tone

@@ -53,15 +53,18 @@ Background in teaching, digital marketing, and client delivery before engineerin
 ### Featured work
 
 **[CFB Ranking Algorithm](https://github.com/merimeesoftware/cfb-ranking-algorithm)** — live ranking system (True Rankings)  
-Weekly drop on production infrastructure.
+Weekly drop on production infrastructure — Cloudflare Worker, secrets in the runtime.
+
+**[sleeper-mcp](https://github.com/merimeesoftware/sleeper-mcp)** — remote MCP on Cloudflare Workers  
+Self-hosted MCP server: one URL for Grok, Cursor, and any MCP client. Encrypted secrets, KV cache, read-only tools.
 
 **[Elyra](https://github.com/merimeesoftware/elyra)** — architecture and agent patterns  
 Conductor (meta-agent) + specialist Personas + reusable Skills + memory.  
 LangGraph-style state machines, MCP tool clients, adaptive onboarding, GitHub Actions CI.
 
 Also:
-- [Senior Schools Network](https://github.com/merimeesoftware/Senior-Schools-Network) — production TypeScript site
-- [Merimee](https://github.com/merimeesoftware/merimee-solutions) — native rebuild of the old Wix portfolio, with a live-link audit of client work
+- [templates](https://github.com/merimeesoftware/templates) — reusable GitHub Actions for quality gates other repos can inherit
+- [Senior Schools Network](https://github.com/merimeesoftware/Senior-Schools-Network) — production TypeScript site ([live](https://seniorschoolnetwork.com/))
 
 ---
 
