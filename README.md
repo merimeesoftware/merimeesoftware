@@ -12,35 +12,42 @@
 ### Michael Merimee
 **I build AI that does real work.**
 
-DevOps engineer at Westfield Insurance. I design the agents and skills that run on a regulated delivery platform, and I build the pipelines they run on. Every change has a person accountable for it.
+DevOps engineer at Westfield Insurance. I put agent systems into production with the same controls I already use for pipelines: identity, gates, audit, blast radius.
 
-The same habit shows up here. Live systems outrank documentation.
+---
+
+### How I build
+- I build working software with Cursor and Claude Code. I configure the tools myself.
+- I design and orchestrate my own agents. They run on routines, behind gates.
+- Every change has a person accountable for it.
+- A tool is good when it serves the person using it.
 
 ---
 
 ### Selected results
-- Co-led the move of a 120-developer platform from TFVC to Git in about six months. The agents read 200 pipeline definitions, wrote most of the pull requests, and checked 405,198 files against production.
+- Moved Billing, Policy, and AgencyPlus from TFVC to Git. 120 developers, about six months, two engineers. Agents worked under human approval.
+- The agents read 200 pipeline definitions, wrote most of the pull requests, and checked 405,198 files against production.
 - Cut 200 classic definitions to 9 YAML pipelines on 2 shared templates. In the first month, 54 developers shipped 404 pull requests.
-- Built the private Azure build pools in Terraform. 418 pipelines from 39 projects moved onto them.
+- Built private Azure build pools in Terraform. 418 pipelines from 39 projects moved onto them.
+- Upgraded SonarQube Enterprise to 2026.3.1 in production, June 2026.
 
 ---
 
-### Featured work
+### Public proof
 
-**[sleeper-mcp](https://github.com/merimeesoftware/sleeper-mcp)** — remote MCP on Cloudflare Workers  
-One URL for Grok, Cursor, and any MCP client. Encrypted secrets, KV cache, read-only tools.
+**[sleeper-mcp](https://github.com/merimeesoftware/sleeper-mcp)** — remote MCP server on Cloudflare Workers  
+One URL for Grok, Cursor, Claude, or any MCP client. Read-only tools, encrypted secrets, KV cache.
 
-**Typesetting studio** — manuscript to print-ready PDF and EPUB  
-Live at [quarto.press](https://quarto.press). Local install, then connect your own model, is the open-source path. The repo stays private until that cut. The name is not final.
+**[True Rankings](https://github.com/merimeesoftware/cfb-ranking-algorithm)** — college football rankings  
+A list that was not an argument. Weekly drop on a Cloudflare Worker.
 
-**[Senior Schools Network](https://seniorschoolnetwork.com/)** — production site  
+**[Senior Schools Network](https://seniorschoolnetwork.com/)** — live site  
 Schools in the John Senior and Alan Hicks line. [Repo](https://github.com/merimeesoftware/Senior-Schools-Network).
 
 **[Merimee Solutions](https://github.com/merimeesoftware/merimee-solutions)** — client sites, native rebuild  
 Page builders when that was what the owner could run. Native now, same rule.
 
-**[True Rankings](https://github.com/merimeesoftware/cfb-ranking-algorithm)** — college football rankings  
-A list that was not an argument. Weekly drop on a Cloudflare Worker.
+Also live: [quarto.press](https://quarto.press).
 
 ---
 
@@ -52,12 +59,12 @@ A list that was not an argument. Weekly drop on a Cloudflare Worker.
 ---
 
 ### How I work
-Evidence over assertion. AI accelerates the draft. Validation and ownership stay with the engineer. A tool is good when it serves the person using it.
+Evidence over assertion. Live systems outrank documentation. AI accelerates the draft. Validation and ownership stay with the engineer.
 
 ---
 
 ### Stack
-Azure DevOps · Terraform · GitHub Actions · Cloudflare Workers · MCP · Python · TypeScript
+Cursor · Claude Code · MCP · Cloudflare Workers · Azure DevOps · Terraform · GitHub Actions · SonarQube · Python · TypeScript
 
 ---
 
