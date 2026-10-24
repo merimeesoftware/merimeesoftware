@@ -10,88 +10,63 @@
 -->
 
 ### Michael Merimee
-**DevOps engineer — platform infrastructure, CI/CD, and agent runtimes**  
-Open to AI platform / enablement / senior platform roles (home-first).
+**I build AI that does real work.**
 
-Currently at Westfield Insurance.  
-I build the delivery platform other teams depend on — private cloud build infrastructure, reusable pipelines, and security tooling — and I’m deliberate about making AI assistance safe to point at real systems.
+DevOps engineer at Westfield Insurance. I put agent systems into production with the same controls I already use for pipelines: identity, gates, audit, blast radius.
 
-Next: last-mile agents on regulated delivery platforms — identity, gates, audit, blast radius — so other teams can use AI without creating an incident.
+---
 
-Background in teaching, digital marketing, and client delivery before engineering — so I’m comfortable in the room where the problem lives, not only in the repo.
+### How I build
+- I build working software with Cursor and Claude Code. I configure the tools myself.
+- I design and orchestrate my own agents. They run on routines, behind gates.
+- Every change has a person accountable for it.
+- A tool is good when it serves the person using it.
 
 ---
 
 ### Selected results
-- Designed and operate private Azure elastic build pools (Terraform, OIDC, private networking) — cut agent wait from up to **65 minutes** worst case to **under a second** for teams that had contention
-- Primary reviewer on shared CI/CD templates and docs: **~215 PRs reviewed for 21 engineers**, with blast-radius thinking for every consuming team
-- Drove enterprise static-analysis adoption across ~a dozen repos; built custom MCP tooling for legacy modernization discovery existing tools couldn’t reach
+- Moved Billing, Policy, and AgencyPlus from TFVC to Git. 120 developers, about six months, two engineers. Agents worked under human approval.
+- The agents read 200 pipeline definitions, wrote most of the pull requests, and checked 405,198 files against production.
+- Cut 200 classic definitions to 9 YAML pipelines on 2 shared templates. In the first month, 54 developers shipped 404 pull requests.
+- Built private Azure build pools in Terraform. 418 pipelines from 39 projects moved onto them.
+- Upgraded SonarQube Enterprise to 2026.3.1 in production, June 2026.
 
 ---
 
-### Skills
-**AI & agents**
-- Agent runtimes with guardrails other teams can inherit
-- Multi-agent systems: conductors, specialist personas, reusable skills, memory
-- MCP — build and wire tool clients/servers agents can actually use
-- Control loops: structure → tool use → verify → dry-run → approve → apply
-- Run AI against real systems without skipping secrets, trust, or blast radius
+### Public proof
 
-**Platform & delivery**
-- Private cloud build platforms and shared CI/CD other teams inherit
-- DevSecOps on ephemeral agents: quality gates, secrets, PKI/trust
-- Incomplete maps → evidenced systems teams can adopt
-- Enablement: discovery → prototype → production → better patterns other teams inherit
+**[sleeper-mcp](https://github.com/merimeesoftware/sleeper-mcp)** — remote MCP server on Cloudflare Workers  
+One URL for Grok, Cursor, Claude, or any MCP client. Read-only tools, encrypted secrets, KV cache.
 
-**People & communication**
-- Teach hard ideas clearly (classroom + developer docs)
-- Write runbooks and integration guides operators will follow
-- Review shared platforms for consumer blast radius, not just local correctness
+**[True Rankings](https://github.com/merimeesoftware/cfb-ranking-algorithm)** — college football rankings  
+A list that was not an argument. Weekly drop on a Cloudflare Worker.
 
----
+**[Senior Schools Network](https://seniorschoolnetwork.com/)** — live site  
+Schools in the John Senior and Alan Hicks line. [Repo](https://github.com/merimeesoftware/Senior-Schools-Network).
 
-### Featured work
+**[Merimee Solutions](https://github.com/merimeesoftware/merimee-solutions)** — client sites, native rebuild  
+Page builders when that was what the owner could run. Native now, same rule.
 
-**[CFB Ranking Algorithm](https://github.com/merimeesoftware/cfb-ranking-algorithm)** — live ranking system (True Rankings)  
-Weekly drop on production infrastructure — Cloudflare Worker, secrets in the runtime.
-
-**[sleeper-mcp](https://github.com/merimeesoftware/sleeper-mcp)** — remote MCP on Cloudflare Workers  
-Self-hosted MCP server: one URL for Grok, Cursor, and any MCP client. Encrypted secrets, KV cache, read-only tools.
-
-**[Elyra](https://github.com/merimeesoftware/elyra)** — architecture and agent patterns  
-Conductor (meta-agent) + specialist Personas + reusable Skills + memory.  
-LangGraph-style state machines, MCP tool clients, adaptive onboarding, GitHub Actions CI.
-
-Also:
-- [templates](https://github.com/merimeesoftware/templates) — reusable GitHub Actions for quality gates other repos can inherit
-- [Senior Schools Network](https://github.com/merimeesoftware/Senior-Schools-Network) — production TypeScript site ([live](https://seniorschoolnetwork.com/))
+Also live: [quarto.press](https://quarto.press).
 
 ---
 
 ### Client delivery
-Built sites when Wix/Squarespace was the right tool — non-technical owners needed something they could manage. That work trained adaptability and shipping for real stakeholders.
-
 - [Saint Joseph the Worker Academy](https://www.saintjosephtheworkeracademy.org/) — designed and built from the ground up
 - [Holy Rollers](https://www.holyrollers.us/) — website design, messaging
 - [Parker Eidle](https://www.parkereidle.com/) — website design
-- [Alena Carter](http://www.alenacarter.art/) — website design, messaging (host was down as of Aug 2026)
-
-Now the same problem is shifting: AI-assisted native sites are often easier to manage than page builders — the direction new client work aims at. The Wix studio site is being replaced by the native rebuild in [merimee-solutions](https://github.com/merimeesoftware/merimee-solutions).
 
 ---
 
 ### How I work
-Evidence over assertion. Live systems outrank documentation.  
-AI accelerates research and drafting; validation and ownership stay with the engineer.
+Evidence over assertion. Live systems outrank documentation. AI accelerates the draft. Validation and ownership stay with the engineer.
 
 ---
 
 ### Stack
-Azure · Terraform · Azure DevOps · OpenShift / Kubernetes · Python · TypeScript · LangGraph · MCP · Java / Spring · GitHub Actions · Cloudflare
+Cursor · Claude Code · MCP · Cloudflare Workers · Azure DevOps · Terraform · GitHub Actions · SonarQube · Python · TypeScript
 
 ---
 
 ### Contact
-LinkedIn: [michael-merimee](https://www.linkedin.com/in/michael-merimee/)  
-GitHub: [merimeesoftware](https://github.com/merimeesoftware) — personal profile  
-Portfolio: [merimee-solutions](https://github.com/merimeesoftware/merimee-solutions)
+LinkedIn: [michael-merimee](https://www.linkedin.com/in/michael-merimee/)
