@@ -3,9 +3,9 @@
 Keep this file as a short mirror for agents that only have the profile repo checked out. The canonical source of truth is private and is not linked from here.
 
 ## Directional pull
-- **Westfield:** describe the work as "platform engineering at Westfield Insurance." Do not state a formal title on the profile.
+- **Westfield:** his title is "DevOps Engineer at Westfield Insurance."
 - **Lead theme:** agent harness engineering. The agents, skills, tools, memory, gates, and accountable human that let AI do real work.
-- **One arc, not silos:** the story starts at Scepter Publishers (many hats: marketing, operations, IT) → the leap into tech (Tech Elevator, then platform engineering) → Westfield platform ownership → agent harness engineering today. Anything before Scepter is biography for interviews, not the README.
+- **One arc, not silos:** the story starts at Scepter Publishers (many hats: marketing, operations, IT) → the leap into tech (Tech Elevator, then DevOps engineering) → Westfield platform ownership → agent harness engineering today. Anything before Scepter is biography for interviews, not the README.
 - **Story, not tasks:** each beat has problem, what he did, outcome.
 - **Proof hierarchy:** agent harness engineering → Westfield platform ownership (TFVC→Git for Billing, Policy, AgencyPlus; SonarQube ownership and implementation; shared templates and Azure permissions and access) → the Scepter-to-engineering arc → private work, named with one line each and no links (agent fleet, book typesetting studio, Trinitas, client sites run by agents, platform-lab as planned) → public repos (sleeper-mcp, True Rankings, Senior Schools Network, merimee-solutions) → client allowlist
 - **Surfaces:** GitHub (proof and career story) + LinkedIn (full story).
