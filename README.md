@@ -12,7 +12,7 @@
 ### Michael Merimee
 **I build AI that does real work.**
 
-My story starts at a publisher, where I wore every hat. Then I took the leap into engineering. Today I do platform engineering at Westfield Insurance, and I engineer the harness: the agents, skills, tools, and controls that let AI do real work on systems people depend on.
+My story starts at a publisher, where I wore every hat. Then I took the leap into engineering. Today I am a DevOps Engineer at Westfield Insurance, and I engineer the harness: the agents, skills, tools, and controls that let AI do real work on systems people depend on.
 
 **Currently:** moving my workstation to Arch Linux to run Hermes Agent plus local and cloud agents, with tight control over cost and token use.
 
