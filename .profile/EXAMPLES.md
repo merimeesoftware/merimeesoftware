@@ -33,5 +33,5 @@ What we want from other developers’ GitHub profiles — not to copy layout, bu
 
 ## Fit for merimeesoftware
 Closest model: **jxnl clarity + simonw proof + measured Westfield results + CFB as live production proof + sleeper-mcp as remote MCP + Elyra as agent-pattern library.**  
-Do not headline Parker/Alena or merimee-solutions in Featured work — those stay under Client delivery / Contact.  
+Never name clients or client sites anywhere on the profile. merimee-solutions is not headlined in Featured work.  
 Skills section is intentional for AI platform / enablement positioning (agent runtimes, MCP, guardrails) — keep it capability-shaped, not logo-shaped.
