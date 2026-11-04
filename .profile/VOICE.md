@@ -7,7 +7,7 @@ Keep this file as a short mirror for agents that only have the profile repo chec
 - **Lead theme:** agent harness engineering. The agents, skills, tools, memory, gates, and accountable human that let AI do real work.
 - **One arc, not silos:** the story starts at Scepter Publishers (many hats: marketing, operations, IT) → the leap into tech (Tech Elevator, then DevOps engineering) → Westfield platform ownership → agent harness engineering today. Anything before Scepter is biography for interviews, not the README.
 - **Story, not tasks:** each beat has problem, what he did, outcome.
-- **Proof hierarchy:** agent harness engineering → Westfield platform ownership (TFVC→Git for Billing, Policy, AgencyPlus; SonarQube ownership and implementation; shared templates and Azure permissions and access) → the Scepter-to-engineering arc → private work, named with one line each and no links (agent fleet, book typesetting studio, Trinitas, client sites run by agents, platform-lab as planned) → public repos (sleeper-mcp, True Rankings, Senior Schools Network, merimee-solutions) → client allowlist
+- **Proof hierarchy:** agent harness engineering → Westfield platform ownership (TFVC→Git for Billing, Policy, AgencyPlus; SonarQube ownership and implementation; shared templates and Azure permissions and access) → the Scepter-to-engineering arc → private work, named with one line each and no links (agent fleet, book typesetting studio, Trinitas, client sites run by agents, platform-lab as planned) → public repos (sleeper-mcp, True Rankings, merimee-solutions). Clients are never named publicly.
 - **Surfaces:** GitHub (proof and career story) + LinkedIn (full story).
 
 ## Tone
@@ -37,7 +37,7 @@ Keep this file as a short mirror for agents that only have the profile repo chec
 - Headlining Solutions Engineer, sales-quota SE, or high-travel FDE
 - Crowding into “security engineer” as the identity
 - Internal system names, colleague names, proprietary topology, org politics
-- Dead client links
+- Naming clients. Clients are never named publicly: no client names, client site links, or client repos. Describe the client model generically.
 - Archived repos (Elyra, templates) on the public front
 - X/Twitter unless explicitly re-enabled
 
