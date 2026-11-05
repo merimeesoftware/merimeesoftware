@@ -71,18 +71,8 @@ One URL for Grok, Cursor, Claude, or any MCP client. Read-only tools, encrypted 
 **[True Rankings](https://github.com/merimeesoftware/cfb-ranking-algorithm)** — college football rankings  
 A list that was not an argument. Weekly drop on a Cloudflare Worker.
 
-**[Senior Schools Network](https://seniorschoolnetwork.com/)** — live site  
-Schools in the John Senior and Alan Hicks line. [Repo](https://github.com/merimeesoftware/Senior-Schools-Network).
-
 **[Merimee Solutions](https://github.com/merimeesoftware/merimee-solutions)** — client sites, native rebuild  
 Page builders when that was what the owner could run. Native now, same rule.
-
----
-
-### Client delivery
-- [Saint Joseph the Worker Academy](https://www.saintjosephtheworkeracademy.org/) — designed and built from the ground up
-- [Holy Rollers](https://www.holyrollers.us/) — website design, messaging
-- [Parker Eidle](https://www.parkereidle.com/) — website design
 
 ---
 
